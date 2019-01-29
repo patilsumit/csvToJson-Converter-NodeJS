@@ -1,0 +1,21 @@
+[{
+    "first_name":"Mubeen",
+    "last_name":"Jukaku",
+    "email":"abc@test.com",
+    "gender":"Male",
+    "age":"36"
+  },
+    {
+        "first_name":"John",
+        "last_name":"Doe",
+        "email":"john@test.com",
+        "gender":"Male",
+        "age":"32"
+    }
+    ,{
+            "first_name":"Sara",
+            "last_name":"Jane",
+            "email":"sara@test.com",
+            "gender":"Female",
+            "age":"55"
+}]
